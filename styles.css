@@ -54,6 +54,11 @@ img {
   scroll-margin-top: 90px;
 }
 
+.section.section-divider {
+  border-top: 1px solid #eceff5;
+  margin-top: -1px;
+}
+
 .section.theme-light {
   background: #fff;
 }
