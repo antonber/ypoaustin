@@ -214,6 +214,7 @@ img {
   color: #fff;
   padding: clamp(5rem, 12vw, 9rem) 0 clamp(4rem, 9vw, 7rem);
   overflow: hidden;
+  box-shadow: 0 30px 90px rgba(2, 9, 25, 0.45);
 }
 
 .hero::before {
